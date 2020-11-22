@@ -1,4 +1,3 @@
-// https://my-json-server.typicode.com/christopher-linke/fakeBackend
 {
     "auth": [{"jwt": "asdlkfajksdhfjh3ojlkn2"}],
     "posts": [
