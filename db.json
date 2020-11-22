@@ -1,8 +1,7 @@
 {
-    "thing": [
-        {"jwt": "asdlkfajksdhfjh3ojlkn2"},
-        {"jwt": "asdlkfajksdhfjh3ojlkn2"}
-    ],
+    "auth": {
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+    },   
     "posts": [
         { "id": 1, "title": "Post 1" },
         { "id": 2, "title": "Post 2" },
